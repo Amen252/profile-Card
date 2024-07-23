@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(59, 54, 54);
+}
+
+
+
+.profile-card{
+    width: 500px;
+    background-image: url("img/cover1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: left;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    border-radius: 20px;
+
+
+}
+.profile-card img{
+    width: 100px;
+    height: 100px;
+    border: 1px dashed white;
+    border-radius: 50%;
+    position: relative;
+    top: 80px;
+}
+ h2 {
+    position: relative;
+    top: 50px;
+ }
+  p{
+    position: relative;
+    top: 30px;
+
+  }
+
